@@ -1,4 +1,4 @@
-the the # GPT2 Finetuned Sentiment Analysis Model
+# GPT2 Finetuned Sentiment Analysis Model
 
 This model is fine-tuned on the **Tweet Sentiment Extraction** dataset for sentiment analysis. It classifies tweets into three sentiment categories: Positive, Negative, and Neutral.
 
